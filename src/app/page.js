@@ -682,7 +682,7 @@ function Cake({ blown, onClick }) {
         textAnchor="middle"
         fontSize={7.5}
         fontFamily={C.sf}
-        fill={"#d8c2b8"}
+        fill={"#e37724"}//#d8c2b8
         fontStyle="italic"
       >
         Happy Birthday
@@ -1797,9 +1797,8 @@ function Finale({ onClose }) {
               margin: "0 auto 22px",
             }}
           >
-            From all of us — the little bird, the elephant with her flower, the
-            bunny who simply cannot stop jumping — may today feel exactly as
-            joyful as you make every ordinary day feel for everyone around you.
+            Happy Birthday! 🎉✨
+Wishing you a day filled with laughter, love, and all the little things that make you truly happy. May this year bring you success, beautiful moments, and endless reasons to smile. Stay blessed, keep shining, and enjoy every second of your special day! 💫😊
           </p>
           <div
             style={{
@@ -2219,7 +2218,7 @@ export default function App() {
               animation: mt ? "ciQ .9s .1s both" : "none",
             }}
           >
-            for someone special
+            
           </p>
 
           <h1
@@ -2255,7 +2254,7 @@ export default function App() {
               fontFamily: C.sf,
               fontStyle: "italic",
               fontWeight: 300,
-              fontSize: "clamp(1.1rem,3.5vw,1.95rem)",
+              fontSize: "clamp(4.1rem,3.5vw,1.95rem)",
               color: C.mid,
               marginBottom: 52,
               cursor: "pointer",
@@ -2265,7 +2264,7 @@ export default function App() {
               animation: mt ? "ciQ .95s .38s both" : "none",
             }}
           >
-            My Someone Special
+            KALYANI
           </p>
 
           <div
